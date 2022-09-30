@@ -3,7 +3,7 @@ package sesi1;
 public class Soal11 {
 	public static void main(String[] args) {
 		int year = 1;
-		double secperday = 3600.0;
+		double secperday = 86400.0;
 		double born = secperday/7;
 		double death = secperday/13;
 		double immi = secperday/45;
